@@ -14,7 +14,7 @@ export default defineConfig({
   // },
 
     site: 'https://I1da725.github.io',
-    base: '/Astro-temp02',
+     //base: '/Astro-temp02',
   
   // i18n: {
   //   defaultLocale: "en",
