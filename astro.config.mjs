@@ -8,10 +8,14 @@ import starlight from "@astrojs/starlight";
 // https://astro.build/config
 export default defineConfig({
   // https://docs.astro.build/en/guides/images/#authorizing-remote-images
-  site: "https://screwfast.uk",
-  image: {
-    domains: ["images.unsplash.com"],
-  },
+  // site: "https://screwfast.uk",
+  // image: {
+  //   domains: ["images.unsplash.com"],
+  // },
+
+    site: 'https://I1da725.github.io',
+     //base: '/Astro-temp02',
+  
   // i18n: {
   //   defaultLocale: "en",
   //   locales: ["en", "fr"],
