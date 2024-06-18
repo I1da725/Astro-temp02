@@ -1,8 +1,8 @@
-// An array of links for navigation bar
+//ナビバー
 const navBarLinks = [
   { name: "Home", url: "/" },
-  { name: "Products", url: "/products" },
-  { name: "Services", url: "/services" },
+  { name: "Activities", url: "/activities" },
+  { name: "Contents for wakamonoger", url: "/contents_for_wakamonoger" },
   { name: "Blog", url: "/blog" },
   { name: "Contact", url: "/contact" },
 ];
